@@ -1,3 +1,3 @@
-# search_filter_example
+# anime_search
 
 A new Flutter project.
